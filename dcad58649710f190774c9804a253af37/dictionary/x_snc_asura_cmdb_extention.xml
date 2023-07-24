@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a60e10a49710f190774c9804a253af97" label="cmdb extention" max_length="40" name="x_snc_asura_cmdb_extention" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Character" max_length="100" name="character" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
