@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="57256c6c9710f190774c9804a253af01" extends="cmdb_ci" label="extented from cmdb" max_length="40" name="x_snc_asura_extented_from_cmdb" type="collection">
+        <element label="character" max_length="40" name="character" type="string"/>
+        <element label="product" max_length="40" name="product" type="string"/>
+    </element>
+</database>
